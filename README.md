@@ -5,14 +5,14 @@
 </div>
 
 ---
-A portable sub-GHz RF signal Multi-Tool built on the ESP32-C3 SuperMini with a CC1101 radio module, created to push the boundaries. FreqFoxRF scans, detects, logs, and replays wireless signals across common ISM bands - all from a compact handheld device with a 0,96" 128×64 I2C OLED display and 5-button navigation.
+A portable sub-GHz RF signal Multi-Tool built on the ESP32-C3 SuperMini with a CC1101 radio module, created to push the boundaries. Signal-Smith scans, detects, logs, and replays wireless signals across common ISM bands - all from a compact handheld device with a 0,96" 128×64 I2C OLED display and 5-button navigation.
 
 #### STILL IN DEVELOPMENT!
 
 ---
 
 ## Functions
-FreqFoxRF features a structured handheld-style menu system designed for fast navigation using the 5‑button interface.  
+Signal-Smith features a structured handheld-style menu system designed for fast navigation using the 5‑button interface.  
 Expand each menu below to explore available functions.
 
 ### Main Menu
@@ -124,7 +124,7 @@ Expand each menu below to explore available functions.
 ---
 
 ### 🚧 More Features Incoming
-FreqFoxRF is actively evolving - new tools, protocols, and experimental RF capabilities are continuously being developed.
+Signal-Smith is actively evolving - new tools, protocols, and experimental RF capabilities are continuously being developed.
 
 ---
 
@@ -176,7 +176,7 @@ FreqFoxRF is actively evolving - new tools, protocols, and experimental RF capab
 
 ## Installation
 
-The source code is not made publicly available due to ungrateful individuals that previously stole my projects to profit from the sale of my devices without any attribution, ignoring the included project license. Install FreqFoxRF by flashing the pre-compiled binary. Hopefully we will warp into a future where such consequences are not required...
+The source code is not made publicly available due to ungrateful individuals that previously stole my projects to profit from the sale of my devices without any attribution, ignoring the included project license. Install Signal-Smith by flashing the pre-compiled binary. Hopefully we will warp into a future where such consequences are not required...
 
 ### Option 1 - esptool (Command Line)
 
@@ -190,9 +190,9 @@ Then flash with:
 
 ```bash
 python -m esptool --chip esp32c3 --port COM16 --baud 115200 write_flash ^
-  0x0 FreqFoxRF.bootloader.bin ^
-  0x8000 FreqFoxRF.partitions.bin ^
-  0x10000 FreqFoxRF.bin
+  0x0 Signal-Smith.bootloader.bin ^
+  0x8000 Signal-Smith.partitions.bin ^
+  0x10000 Signal-Smith.bin
 ```
 
 > Replace `COM16` with your actual serial port!
@@ -229,7 +229,7 @@ A browser-based flasher (no drivers required) may be available via [ESP Web Tool
 
 ## UI & Display
 
-The FreqFoxRF display graphics were designed using **[Lopaka](https://lopaka.app)** - a free, browser-based UI editor for embedded displays. If you're building anything that makes pixels go "Beep, Boop! 0 1", Lopaka lets you visually design your layouts and exports ready-to-use code directly. No more guessing pixel coordinates by hand.
+The Signal-Smith display graphics were designed using **[Lopaka](https://lopaka.app)** - a free, browser-based UI editor for embedded displays. If you're building anything that makes pixels go "Beep, Boop! 0 1", Lopaka lets you visually design your layouts and exports ready-to-use code directly. No more guessing pixel coordinates by hand.
 
 Seriously worth bookmarking if you do any embedded UI work: **https://lopaka.app**
 Special thanks to Lopaka.app for sponsoring and supporting by this!
