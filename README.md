@@ -1,6 +1,6 @@
 <h1 align="center">Signal-Smith by Sunil</h1>
 <div align="center">
-  <img width="1198" height="689" alt="image" src="https://github.com/user-attachments/assets/e256659e-9615-4333-8ece-9c7cbe481b3d" />
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/e256659e-9615-4333-8ece-9c7cbe481b3d" />
   <h3 align="center">Intended for authorized testing, research, and educational use only!</h3>
 </div>
 
