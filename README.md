@@ -242,6 +242,16 @@ Signal-Smith is intended for authorized testing, research, and educational use o
 
 ---
 
+## Contact & Connect
+
+<p align="left">
+  <a href="https://github.com/Sunil56224972"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+---
+
 ## License
 
 Hardware design and firmware are proprietary. Binary releases are provided for personal, non-commercial use only. Redistribution of the binary without permission is not permitted.
