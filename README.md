@@ -1,4 +1,4 @@
-<h1 align="center">FreqFoxRF - by @emensta</h1>
+<h1 align="center">Signal-Smith by Sunil</h1>
 <div align="center">
   <img width="1198" height="689" alt="image" src="https://github.com/user-attachments/assets/e256659e-9615-4333-8ece-9c7cbe481b3d" />
   <h3 align="center">Intended for authorized testing, research, and educational use only!</h3>
@@ -238,7 +238,7 @@ Special thanks to Lopaka.app for sponsoring and supporting by this!
 
 ## Disclaimer
 
-FreqFoxRF is intended for authorized testing, research, and educational use only. Transmitting on licensed frequencies without authorization may be illegal in your jurisdiction. I, The author (@emensta) DO NOT take responsibility for misuse.
+Signal-Smith is intended for authorized testing, research, and educational use only. Transmitting on licensed frequencies without authorization may be illegal in your jurisdiction. I, the author (Sunil), DO NOT take responsibility for misuse.
 
 ---
 
